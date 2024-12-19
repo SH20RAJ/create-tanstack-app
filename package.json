@@ -1,0 +1,17 @@
+{
+  "name": "create-tanstack-app",
+  "version": "1.1.0",
+  "main": "index.js",
+  "bin": {
+    "create-tanstack-app": "./index.js"
+  },
+  "author": "Shaswat Raj",
+  "license": "ISC",
+  "description": "A CLI tool to create a Tanstack app",
+  "keywords": ["TanStack", "create-app", "React", "TypeScript"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SH20RAJ/create-tanstack-app.git"
+  },
+  "dependencies": {}
+}
